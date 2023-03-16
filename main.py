@@ -7,5 +7,5 @@ def hello_world():
     return "<p>mansaitus sariman</p>"
 
 if __name__== '__main__':
-  app.run(host='0.0.0.o',debug=True)
+  app.run(host='0.0.0.0',debug=True)
   
